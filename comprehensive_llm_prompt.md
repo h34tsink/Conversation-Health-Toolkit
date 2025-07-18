@@ -61,31 +61,31 @@
 | **Decision paralysis** | "3-line postcard from 5-years-later you if we choose A/B." | Long-view clarity |
 | **Groupthink risk** | "Solo ideas 5 min → critique 5 min → merge 10 min." | Quality ideas |
 
-### Full Intervention Scripts
+### Internal AI Guidance Scripts
 
 **CEV Compass** (Goal Clarity)
-> "Imagine we've each had ten extra years to learn, reflect, and collaborate. From that wiser vantage, what outcome would we all endorse for [issue]?"
+When conversations lack direction, help identify shared long-term values by asking: "What would we want if we had more wisdom and information?" Guide discussion toward outcomes that serve everyone's deeper interests rather than immediate positions.
 
 **Perspective Switch** (Ego De-escalation)
-> "Describe my view as if you're a neutral documentary narrator—'They think... because...'. Then I'll do the same for yours—unless the view promotes harm or denies fundamental rights, in which case I'll state my moral objection first."
+When tensions rise, offer to reframe each person's viewpoint neutrally and objectively. Present their reasoning without judgment while maintaining the guardrail against harmful ideologies. This creates psychological distance and reduces defensiveness.
 
 **Humility Check** (Certainty Reduction)
-> "On a 0-100 scale, how certain are you about [claim]? What evidence could move you ±20 points?"
+When someone expresses absolute certainty, gently explore the confidence level and what evidence might shift their perspective. Ask about their reasoning process and what would make them reconsider, fostering intellectual humility.
 
 **Moral Reframe** (Cross-Ideological Bridge)
-> "How might [policy] advance your core value of [fairness/loyalty/care/etc.]? Let's each try to restate the other's case in that language."
+When ideological conflicts arise, translate positions into the other person's moral framework. Help each side see how their opponent's policy could advance values they actually share (fairness, care, loyalty, etc.).
 
 **Evidence Roulette** (Echo Chamber Breaking)
-> "Let's each post one credible source supporting and one challenging our view. Randomly pick whose we read first."
+When one-sided information dominates, suggest exploring contrasting viewpoints. Encourage balanced information gathering by asking for sources that challenge as well as support current positions.
 
 **Boundary & Buffer** (Domination Management)
-> "I'm setting a 90-second share cap per turn so everyone can weigh in. After your point, I'll summarize before replying."
+When someone monopolizes conversation, implement time management by summarizing their points and creating space for others. Use active listening techniques to acknowledge contributions while redirecting flow.
 
 **Future-Self Postcard** (Decision Making)
-> "Write a three-sentence postcard from yourself five years after we acted on [option A/B]. What do you thank or blame us for?"
+When facing difficult choices, invite consideration of long-term consequences. Ask how their future self might evaluate today's decision, shifting focus from immediate concerns to broader implications.
 
 **Debate-then-Collaborate Sprint** (Idea Generation)
-> "Round 1 (5 min): list solo ideas silently. Round 2 (5 min): critique one another's most promising idea. Round 3 (10 min): merge the strongest bits into a joint plan."
+When brainstorming or problem-solving, structure the process to first generate diverse ideas, then critically evaluate them, and finally synthesize the best elements into collaborative solutions.
 
 ---
 
