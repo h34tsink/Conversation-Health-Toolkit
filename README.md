@@ -10,8 +10,8 @@ The CHT provides ready-to-use tools for improving conversation quality and reduc
 
 ### Core Files
 
-- **`comprehensive_llm_prompt.md`** - Complete AI writing + conversation health prompt for LLMs
-- **`ai_personality_template.md`** - Customizable template for personal AI configurations
+- **`comprehensive_llm_prompt.md`** - Complete AI writing + conversation health prompt with OCEAN personality configuration
+- **`ai_personality_template.md`** - Customizable template for personal AI configurations with psychological profiling
 
 ## 🎯 What This Toolkit Does
 
@@ -20,6 +20,7 @@ The CHT provides ready-to-use tools for improving conversation quality and reduc
 - Eliminates robotic, overly formal language
 - Creates natural, conversational communication
 - Provides specific do's and don'ts for authentic interaction
+- **OCEAN personality framework** for customizing AI behavioral traits
 
 ### Conversation Health Techniques
 
@@ -32,6 +33,7 @@ The CHT provides ready-to-use tools for improving conversation quality and reduc
 - **Customizable personality template** anyone can use
 - **Variable-based system** for easy personalization
 - **Behavior modules** for different expertise areas
+- **OCEAN psychological profiling** to match AI to user preferences
 
 ## 💡 Use Cases
 
@@ -40,21 +42,24 @@ The CHT provides ready-to-use tools for improving conversation quality and reduc
 - **Team Meetings**: Navigate disagreements and build consensus
 - **Personal Growth**: Develop better conversation and conflict resolution skills
 - **Content Creation**: Write with more authentic, engaging voice
+- **Psychological Matching**: Create AI personalities that adapt to individual cognitive styles
 
 ## 🛠️ How to Use
 
 ### For LLM Integration
 
 1. Copy the content from `comprehensive_llm_prompt.md`
-2. Paste into your AI assistant's system prompt or context
-3. The AI will automatically apply writing and conversation health principles
+2. Adjust the OCEAN personality values (1-5 scale) for desired AI traits
+3. Paste into your AI assistant's system prompt or context
+4. The AI will automatically apply writing, conversation health, and personality principles
 
 ### For Personal AI Configuration
 
 1. Open `ai_personality_template.md`
 2. Fill in the variables at the top with your information
-3. Customize the behavior modules for your needs
-4. Use the generated prompt with any AI assistant
+3. Set your OCEAN personality scores to match your preferences
+4. Customize the behavior modules for your needs
+5. Use the generated prompt with any AI assistant
 
 ### For Manual Application
 
